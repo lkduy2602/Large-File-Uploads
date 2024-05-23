@@ -1,0 +1,10 @@
+<div class="px-4 py-16 h-screen flex flex-col gap-5">
+  <app-upload
+    [chunkProcess]="chunkProcess"
+    [isBlockUploadFile]="isBlockUploadFile"
+  ></app-upload>
+
+  @if(videoUrl ){
+  <app-video-player [videoUrl]="videoUrl" class="mx-auto"></app-video-player>
+  }
+</div>
