@@ -6,7 +6,7 @@ This project provides a robust solution for uploading, processing, and convertin
 
 ## Architecture
 
-![Hello World]([https://lh3.googleusercontent.com/d/1ERgEKw24HLtiV3l8VyiTtm-VziekaRiF])
+![alt text](https://lh3.googleusercontent.com/d/1ERgEKw24HLtiV3l8VyiTtm-VziekaRiF)
 
 ## Key Features
 
