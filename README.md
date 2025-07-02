@@ -6,7 +6,7 @@ This project provides a robust solution for uploading, processing, and convertin
 
 ## Architecture
 
-![Hello World]([[https://api.gateway.overate-vntech.com/short/-i2xtG1OD9_XTRyx3ewob](https://lh3.googleusercontent.com/d/1ERgEKw24HLtiV3l8VyiTtm-VziekaRiF)](https://lh3.googleusercontent.com/d/1ERgEKw24HLtiV3l8VyiTtm-VziekaRiF))
+![Hello World]([https://lh3.googleusercontent.com/d/1ERgEKw24HLtiV3l8VyiTtm-VziekaRiF])
 
 ## Key Features
 
